@@ -10,6 +10,7 @@ Estos programas fueron desarrollados inicialmente para facilitar la recopilació
 
 <h1>Instalación</h1>
 <h2>Requerimientos</h2>
+
 1. Tener instalado Visual Studio Code con las opciones de abrir carpetas con VS Code (https://code.visualstudio.com/)
 2. Tener instalado Excel y LibreOffice (Opcional)
 3. Tener instalado Python (versión>3.7) y las librerías bs4 (Beatiful soup) y openpyxl. Si tiene instalado pip “pip install bs4” y “pip install openpyxl” en la CMD basta para instalarlos. Esta información se encuentra fácilmente en internet.
