@@ -1,5 +1,5 @@
-# GrupLAC_Scrapper
-Conjunto de programas hechos en python que scrappean las páginas públicas de los GrupLACs de grupos de investigación Colombianos
+# GrupLAC_Scraper
+Conjunto de programas hechos en python que scrapean las páginas públicas de los GrupLACs de grupos de investigación Colombianos
 
 <h1>Propósito</h1>
 Estos programas fueron desarrollados inicialmente para facilitar la recopilación de información y posterior analisis de los productos resultados de investigación del grupos NATURATU de la Universidad de Ibagué. Dado que su uso fue requerido en otras áreas de la universidad y la utilidad que se le puede dar a otras instituciones, se hace público su acceso por este medio. 
@@ -22,7 +22,7 @@ En la instalación asegúrese de añadir python a la variable PATH.
 
 Cada programa GrupLACpyExtract<b color="Blue">item</b> funciona como se muestra en la imagen:
 
-<img width="581" alt="Funcionamiento_de_los_programas_de_scrappear_CvLACS" src="https://github.com/CamiloEEN/CvLAC_Scrapper/assets/88359710/40ac5cc7-e39a-49bc-b236-12bc066ac041">
+<img width="581" alt="Funcionamiento_de_los_programas_de_scrapear_CvLACS" src="https://github.com/CamiloEEN/CvLAC_Scraper/assets/88359710/40ac5cc7-e39a-49bc-b236-12bc066ac041">
 
 Al ejecutarse toma por defecto un archivo llamado consulta.xlsx con la lista de grupos de investigación y los correspondientes links a los GrupLACs en la carpeta input y devuelve un archivo .csv en la carpeta output con la lista de <b color="Blue">items</b> obtenidos directamente de los GrupLACs.
 
